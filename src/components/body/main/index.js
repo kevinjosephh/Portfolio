@@ -11,7 +11,7 @@ function Main() {
   useEffect(()=>{
     init(textRef.current,{
       showCursor: false,
-      strings:["Python Developer","React Developer","Mern Stack Developer"],
+      strings:["Django Developer","React Developer","Web Designer"],
     });
   },[]);
   return (
@@ -19,7 +19,7 @@ function Main() {
       <div className='intro'>
         Hello, myself <span className='name'>Kevin Joseph</span>
         <br/>
-        I am <span ref={textRef} className='typing'></span>
+        <span ref={textRef} className='typing'></span>
       </div>
       <div className='stack'>
         <img src={python} className='social-icon' alt='' />

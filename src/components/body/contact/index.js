@@ -19,22 +19,22 @@ function Contact() {
           </a>
       </div>
     <div className='social-content' >
-          <a href="www.github.com/kevinjosephh">
+          <a href="https://github.com/kevinjosephh">
             <div className='social-div'>
               <img src={github} className='social-icon' alt='' />
             </div>
           </a>
-          <a href="www.github.com/kevinjosephh">
+          <a href="https://www.linkedin.com/in/kevin-joseph-a75489214/">
             <div className='social-div'>
               <img src={linkedin} className='social-icon' alt='' />
             </div>
           </a>
-          <a href="www.github.com/kevinjosephh">
+          <a href="https://twitter.com/josephhkevin">
             <div className='social-div'>
               <img src={twitter} className='social-icon' alt='' />
             </div>
           </a>
-          <a href="www.github.com/kevinjosephh">
+          <a href="https://www.instagram.com/kevinjosephh/">
             <div className='social-div'>
               <img src={instagram} className='social-icon' alt='' />
             </div>

@@ -1,0 +1,7 @@
+.line{
+    background-image: linear-gradient(to right, #f9a3d4, #eba3df, #d9a5ea, #c4a7f2, #abaaf7, #aaacf7, #aaaff8, #a9b1f8, #beb4f6, #d0b7f3, #e0bbef, #ecc0ec);
+    height: 6px;
+    width: 100%;
+    border-radius: 3px;
+    margin: 16px 0px;
+}

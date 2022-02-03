@@ -1,0 +1,35 @@
+.header {
+    display: flex;
+    justify-content: center;
+    flex: 1;
+    padding: 12px;
+    position: relative;
+}
+
+.menu {
+    background-color: white;
+    display: flex;
+    flex: 1;
+    justify-content: center;
+}
+
+.secound-view {
+    display: none;
+}
+
+.first-view {
+    display: flex;
+}
+
+@media only screen and (max-width: 720px){
+
+    .secound-view {
+        display: flex;
+    }
+
+    .first-view {
+        display: none;
+    }
+
+    
+}

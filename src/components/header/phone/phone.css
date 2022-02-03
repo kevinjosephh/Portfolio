@@ -1,0 +1,28 @@
+.phone {
+    display: flex;
+    flex: 1;
+    align-items: center;
+}
+
+.phone-nav {
+    font-size: 20px;
+    margin-right: 16px;
+    font-weight: 700;
+}
+
+.phone-nav a{
+    text-decoration: none;
+    color: black;
+    display: flex;
+    align-items: center;
+}
+
+.nav-icon {
+    display: flex;
+    align-items: center;
+    margin-right: 4px;
+}
+
+.phone-nav:last-child {
+    margin-right: 0px;
+}

@@ -1,0 +1,68 @@
+.list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    margin: 24px 0px;
+}
+
+.work-card {
+    padding: 8px;
+    width: 45%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row-reverse;
+}
+
+.work-img {
+    height: 30%;
+}
+
+.work-info{
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+}
+
+.date{
+    color: gray;
+}
+
+.desc{
+    text-align: left;
+    max-width: 80%;
+}
+
+.list .info {
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.btn-intro {
+    display: flex;
+}
+
+.btn-intro a{
+    text-decoration: none;
+    color: black;
+}
+
+.btn {
+    margin-top:  6px;
+    display: flex;
+    flex-direction: row;
+}
+
+.btn i{
+    margin-right: 4px;
+}
+
+@media only screen and (max-width:720px) {
+    .work-card {
+        width: 100%;
+    }
+}

@@ -5,7 +5,7 @@ function Card() {
   return (
       <div className='list'>
       <div className='work-card'>
-          <img className='work-img' src='https://media-exp1.licdn.com/dms/image/C560BAQF6seCfOamrtQ/company-logo_200_200/0/1629458488211?e=2159024400&v=beta&t=RMVqprWo42vm9S1rxFziCjSOAVgaP9LfEaQP8rjKWBc' />
+          <img alt='Arustu Technology Logo' className='work-img' src='https://media-exp1.licdn.com/dms/image/C560BAQF6seCfOamrtQ/company-logo_200_200/0/1629458488211?e=2159024400&v=beta&t=RMVqprWo42vm9S1rxFziCjSOAVgaP9LfEaQP8rjKWBc' />
           <div className='work-info'>
             <label className='company'>Web Development - Arustu Technology</label>
             <div className='date'>
@@ -17,7 +17,7 @@ function Card() {
           </div>
       </div>
       <div className='work-card'>
-          <img className='work-img' src='https://media-exp1.licdn.com/dms/image/C560BAQGltPFv_fYKLQ/company-logo_200_200/0/1605694035237?e=2159024400&v=beta&t=FZng8GKHMD2N7_Bp2XcNksj1NA9pYsb9rlwGX2vezZA' />
+          <img alt='Ansrcoach Logo' className='work-img' src='https://media-exp1.licdn.com/dms/image/C560BAQGltPFv_fYKLQ/company-logo_200_200/0/1605694035237?e=2159024400&v=beta&t=FZng8GKHMD2N7_Bp2XcNksj1NA9pYsb9rlwGX2vezZA' />
           <div className='work-info'>
             <label className='company'>Web Development - Ansrcoach</label>
             <div className='date'>

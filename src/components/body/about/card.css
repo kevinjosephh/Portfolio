@@ -1,4 +1,4 @@
-.list{
+.about-main{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
@@ -6,7 +6,7 @@
     margin: 24px 0px;
 }
 
-.work-card {
+.about-card {
     padding: 8px;
     width: 45%;
     display: flex;
@@ -19,7 +19,7 @@
     height: 30%;
 }
 
-.work-info{
+.college-info{
     display: flex;
     align-items: flex-start;
     flex-direction: column;
@@ -34,7 +34,7 @@
     max-width: 80%;
 }
 
-.list .info {
+.about-main .info {
     display: flex;
     flex: 1;
     justify-content: center;
@@ -62,7 +62,7 @@
 }
 
 @media only screen and (max-width:720px) {
-    .work-card {
+    .about-card {
         width: 100%;
     }
 }

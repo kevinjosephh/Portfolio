@@ -17,7 +17,7 @@ function Card() {
         </div>
         <p>Public Room Web-Application. In which users can join a Room, Create a Room and Open up a new topic</p>
       </div>
-      <img className='project-img' alt='' src='https://user-images.githubusercontent.com/38029772/137753113-9c643020-1894-4d17-a56e-5e5f26ac5f52.png' />
+      <img className='project-img' alt='Files Room Preview' src='https://user-images.githubusercontent.com/38029772/137753113-9c643020-1894-4d17-a56e-5e5f26ac5f52.png' />
       
     </div>
     <div className='card'>
@@ -33,7 +33,7 @@ function Card() {
         </div>
         <p>Product Management tool on which staff member can update or keep track of all orders and user can check-in on products that were ordered by them</p>
       </div>
-      <img className='project-img' alt='' src='https://user-images.githubusercontent.com/38029772/136344690-d2882a13-f64f-4856-8fa6-617cf77c2a8c.png' />
+      <img className='project-img' alt='Project Management Preview' src='https://user-images.githubusercontent.com/38029772/136344690-d2882a13-f64f-4856-8fa6-617cf77c2a8c.png' />
     </div>
   </div>
   );

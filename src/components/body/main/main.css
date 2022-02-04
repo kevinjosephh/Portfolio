@@ -21,12 +21,17 @@
     font-weight: 600;
 }
 
+.stack {
+    position: relative;
+}
 
 .social-icon {
     padding-top: 50px;
     margin: 10px;
     height: 32px;
 }
+
+
 
 
 @media only screen and (max-width: 720px){

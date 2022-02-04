@@ -1,10 +1,11 @@
 import React from 'react';
+import rdnational from './icons/rdnational.jpeg'
 import './card.css'
 
 function Card() {
   return (
-    <div className='list'>
-    <div className='work-card info'>
+    <div className='about-main'>
+    <div className='about-card info'>
          <p>Passionate to write code and explore different aspects of programming, and creating web apps using Django and React</p>
       <div className='btn-intro'>
         <a className='btn' href='#contact'>
@@ -16,11 +17,11 @@ function Card() {
         </a>
       </div>
     </div>
-    <div className='work-card'>
-        <img className='work-img' src='https://rdnational.ac.in/img/logo.png' />
-        <div className='work-info'>
-          <label className='company'>RD National College</label>
-          <label className='company'>BSc Computer Science (9.43/10.00)</label>
+    <div className='about-card'>
+        <img alt='RD National College Logo' className='work-img' src={rdnational} />
+        <div className='college-info'>
+          <label className='college'>RD National College</label>
+          <label className='college'>BSc Computer Science (9.43/10.00)</label>
           <div className='date'>
               <label>2020 </label>-<label> Present</label>
           </div>

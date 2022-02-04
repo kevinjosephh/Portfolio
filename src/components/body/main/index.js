@@ -22,10 +22,10 @@ function Main() {
         <span ref={textRef} className='typing'></span>
       </div>
       <div className='stack'>
-        <img src={python} className='social-icon' alt='' />
-        <img src={react} className='social-icon' alt='' />
-        <img src={go} className='social-icon' alt='' />
-        <img src={dotnet} className='social-icon' alt='' />
+        <img src={python} className='social-icon' alt='Python Icon' />
+        <img src={react} className='social-icon' alt='React Icon' />
+        <img src={go} className='social-icon' alt='Go Icon' />
+        <img src={dotnet} className='social-icon' alt='Dotnet Icon' />
       </div>
 
   </div>

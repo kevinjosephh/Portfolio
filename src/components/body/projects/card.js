@@ -15,7 +15,7 @@ function Card() {
             <div className='btn-text'><i class="fi fi-rr-notebook"></i>Code</div>
           </a>
         </div>
-        <p>Public Room Web-Application. In which users can join a Room, Create a Room and Open up a new topic</p>
+        <p>Public Room Web-Application in which users can join a Room, Create a Room and Open up a new topic</p>
       </div>
       <img className='project-img' alt='Files Room Preview' src='https://user-images.githubusercontent.com/38029772/137753113-9c643020-1894-4d17-a56e-5e5f26ac5f52.png' />
       

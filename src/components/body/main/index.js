@@ -11,15 +11,17 @@ function Main() {
   useEffect(()=>{
     init(textRef.current,{
       showCursor: false,
-      strings:["Django Developer","React Developer","Web Designer"],
+      strings:[" Django Developer"," React Developer"," Web Designer"],
     });
   },[]);
   return (
   <div className='main'>
       <div className='intro'>
-        Hello, myself <span className='name'>Kevin Joseph</span>
-        <br/>
-        <span ref={textRef} className='typing'></span>
+        <p className='my-name'>
+        Hello, I am <span className='name'>Kevin Joseph</span> 
+        </p>
+
+       <p className='code-block'>&lt; <span ref={textRef} className='typing'></span> /&gt;</p>
       </div>
       <div className='stack'>
         <img src={python} className='social-icon' alt='Python Icon' />

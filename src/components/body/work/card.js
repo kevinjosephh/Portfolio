@@ -12,7 +12,7 @@ function Card() {
                 <label>1-02-2022 </label>-<label> Present</label>
             </div>
             <div className='desc'>
-                <p>Design Web Pages as per UI/UX Requirements using React Framework, perform version control of project.</p>
+                <p>Designed Web Pages as per UI/UX Requirements using React Framework, perform version control of project.</p>
             </div>
           </div>
       </div>
@@ -24,7 +24,7 @@ function Card() {
                 <label>1-12-2021 </label>-<label> 31-12-2021</label>
             </div>
             <div className='desc'>
-                <p>Design a website for an NGO with the functionality of sending Donations through Razorpay API.</p>
+                <p>Designed a website for an NGO with the functionality of sending Donations through Razorpay API.</p>
             </div>
           </div>
       </div>

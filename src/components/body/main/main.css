@@ -8,9 +8,19 @@
 }
 
 .intro {
+    display: grid;
+    place-items: center;
     margin-top: 40px;
     font-size: 24px;
     font-weight: 600;
+}
+
+.code-block{
+    color: rgb(76, 43, 226);
+}
+
+.code-block span{
+    color: black;
 }
 
 .name {

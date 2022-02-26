@@ -12,7 +12,7 @@ function Card() {
           <div className='btn-text'><i class="fi fi-rr-dollar"></i>Hire Me</div>
         </a>
 
-        <a className='btn' download href='https://github.com/kevinjosephh/kevinjosephh/files/7995167/Resume.pdf'>
+        <a className='btn' download href='https://github.com/kevinjosephh/kevinjosephh/files/8039123/Resume.4.pdf'>
           <i class="fi fi-rr-download"></i>Resume
         </a>
       </div>
